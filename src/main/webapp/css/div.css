@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+
+
+#wrapper #header div {
+	display: inline-block;
+	font-size: 12px;
+	color : #555555;
+	margin-left: 10px;
+
+
+}
+#wrapper #containerOne {
+	display: inline-block;
+	
+}
+.contain{
+	display: inline-block;
+	width: 190px;
+	height: 150px;
+	border: 1px solid #cccccc;
+	margin: 9px;
+}
+.imgcontain {
+	display: inline-block;
+	width: 190px;
+	height: 150px;
+	vertical-align:top;
+	border: 1px solid #cccccc;
+	font-size: 12px;
+	margin: 9px;
+}
+.bigimgcontain{
+	display: inline-block;
+	width: 190px;
+	height: 100%;
+	vertical-align:top;
+	border: 1px solid #cccccc;
+	font-size: 12px;
+	margin: 9px;
+}
+
+.bold {
+	font-weight: bold;
+	font-size: 80%;
+}
+.gray {
+	color: gray;
+	font-size: 70%;
+}
+.green {
+	color: green;
+	font-size: 70%;
+}
